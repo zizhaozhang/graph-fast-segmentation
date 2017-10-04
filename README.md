@@ -5,5 +5,3 @@ This is the original implementation for the paper titled "Revisiting Graph Const
 
 Run ``` demo.m ``` to test the method.
 
-Run ``` demo_dataset.m ``` to evaluate a dataset. Download the dataset to the dataset/ folder first.
-
